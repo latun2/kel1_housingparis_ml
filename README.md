@@ -25,3 +25,4 @@ Model terbaik diperoleh dari Linear Regression dengan R² Score tertinggi.
 ## Anggota Tim
 - Lulu Atun Hasna
 - Nabila Anggun Agustini
+- Epri Wibowo
