@@ -1,6 +1,4 @@
-# HouseParis_ml
-# Paris Housing Prices Prediction
-
+## ANALISIS PERBANDINGAN ALGORITMA MACHINE LEARNING UNTUK PREDIKSI HARGA PROPERTI DI PARIS MENGGUNAKAN PENDEKATAN REGRESI
 Machine Learning project untuk memprediksi harga properti di Paris menggunakan beberapa algoritma regresi, yaitu Linear Regression, Decision Tree Regressor, dan Random Forest Regressor.
 
 ## Dataset
